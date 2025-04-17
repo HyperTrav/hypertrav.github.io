@@ -1,6 +1,6 @@
 ---
 title: First Post
-date: 2025-04-17
+date: 2025-04-17 12:00:00 +0000
 categories: [test, post]
 tags: [test, tag1, things]
 ---
