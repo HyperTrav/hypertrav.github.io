@@ -6,8 +6,8 @@ tags: [test, tag1, things]
 ---
 # Showing off #
 this is a way to show how easy it is to make a block post
-```javacript
+---javacript
 function test() {
     console.log("This is a test function");
 }
-```
+---
